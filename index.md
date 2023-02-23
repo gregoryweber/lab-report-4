@@ -59,7 +59,7 @@
 -   ![tasks-5](tasks-5.png)
 -   With the error fixed, the tests now all pass.
 
-### Committing and pushing the changes to Github.
+### 9. Committing and pushing the changes to Github.
 
 -   In order to commit the changes, I pressed `ctrl+r`, then typed `git commit`, then pressed `<enter>`. The full command found was `git commit -a -m "Updated"`. I then pressed `<enter>` to run the command.
 -   This command both adds all changes and new files, as well as commits them with the commit message being "Updated".
